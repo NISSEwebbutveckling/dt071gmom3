@@ -5,7 +5,7 @@
 ### Objektorienterad programmering med C#
 
 
-##Gästboken
+## Gästboken
 Uppgiften består i att skapa en konsolapplikation som fungerar som en gästbok. Lösningen innehåller bl.a. felhantering som kontrollerar om alla inmatningsfält innehåller data, m.m.
 
 
